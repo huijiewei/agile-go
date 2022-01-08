@@ -1,0 +1,12 @@
+go 1.18
+
+use (
+	./agile-console
+	./agile-engine
+	./agile-framework
+	./agile-serve-admin
+	./agile-serve-mobile
+	./agile-serve-website
+	./agile-start-captcha
+	./agile-start-upload
+)
